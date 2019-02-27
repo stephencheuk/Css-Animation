@@ -1,2 +1,4 @@
-# Css-Table-Row-Remove-Animation
-use css animation to make table row remove with jquery bind action
+# Css Animation
+use css to make action animation with jquery bind
+
+1. Table-Row-Remover.html
